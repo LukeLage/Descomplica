@@ -1,0 +1,14 @@
+#button{
+    background-color: rgb(24, 75, 216);
+    color: white;
+    text-align: right;
+}
+
+form{
+    text-align: center;
+    width: 50%;
+}
+
+label{
+    font-weight: bold;
+}
